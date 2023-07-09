@@ -15,3 +15,47 @@ In this project, React and Ethereum blockchain technologies are used to create a
 # Implementation
 1. Clone the repository:
    
+```bash
+git clone <https://github.com/Palakkkkkkkkkk/METACRAFTERS-ETH-AVAX-MODULE-2.git>
+```
+
+2. Install the dependencies ( IF THE DEPENDENCIES DOES NOT INSTALL CORRECTLY THEN USE --force ):
+
+```bash
+npm i
+```
+
+3. Open two additional terminals in your VS code.
+4. In the second terminal type: npx hardhat node.
+5. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js.
+6. Back in the first terminal, type npm run dev to launch the front-end.
+7. Open the application in your browser, the project will be running on your localhost. Typically at:
+
+```bash
+http://localhost:3000
+```
+
+8. Connect your MetaMask wallet and interact with the ATM interface.
+
+# Technologies Used
+
+- React - JavaScript library for building user interfaces
+- Ethereum - Blockchain network for decentralized applications
+- MetaMask - Wallet and gateway to Ethereum blockchain
+- ethers.js - Library for interacting with Ethereum smart contracts
+
+# Structure of the Project
+
+- `src/` - Contains the application source code
+- `components/` - Contains reusable React components
+- `artifacts/` - Contains the contract ABI and artifacts
+- `pages/` - Contains the main application pages
+- `App.js` - Main application component
+- `index.js` - Entry point of the application
+- `contracts/` - Contains the Solidity smart contract code
+
+# Author
+PALAK JAIN :)
+
+# Licence
+This project is licensed under the [MIT License](LICENSE).
