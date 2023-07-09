@@ -12,7 +12,7 @@ contract Assessment {
     event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
     event BalanceMultiplied(uint256 previousBalance, uint256 newBalance);
 
-    vconstructor(uint initBalance) payable {
+    constructor(uint initBalance) payable {
         owner = payable(msg.sender);
         balance = initBalance;
     }
