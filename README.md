@@ -1,5 +1,5 @@
 # AIML PROJECT
-In this project, React and Ethereum blockchain technologies are used to create a basic ATM (Automated Teller Machine). Users can connect their MetaMask wallets to the project, examine their account balance, deposit and receive money, multiply the amount by 2, and transfer ownership of the ATM contract, among other features.
+In this project, React and Ethereum blockchain technologies are used to create a basic FRAUD DETECTION SYSTEM. Users can connect their MetaMask wallets to the project, examine their account balance, deposit and receive money, multiply the amount by 2, and transfer ownership of the ATM contract, among other features.
 
 # Highlights
 1. Connect Metamask Wallet to the ATM
