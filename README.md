@@ -1,4 +1,4 @@
-# METACRAFTERS-ETH-AVAX-MODULE-2
+# AIML PROJECT
 In this project, React and Ethereum blockchain technologies are used to create a basic ATM (Automated Teller Machine). Users can connect their MetaMask wallets to the project, examine their account balance, deposit and receive money, multiply the amount by 2, and transfer ownership of the ATM contract, among other features.
 
 # Highlights
